@@ -191,6 +191,19 @@ p {
   margin-right: 5px;
 }
 
+.my-pic {
+  width: 70%;
+  border: 3px ridge #0a5ea3;
+  border-radius: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+}
+
+#port {
+  text-align: center;
+  font-size: 1.2rem;
+  text-shadow: 1px 1px #0a5ea3;
+}
+
 @media only screen and (max-width: 900px) {
   .navbar-toggler-icon {
     background-color: #0a5ea3;
